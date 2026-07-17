@@ -13,7 +13,7 @@
 ### 1. Fork y clonar
 
 ```bash
-git clone https://github.com/tu-usuario/mini-social.git
+git clone https://github.com/Jeishoon-bit/Mini-social.git
 cd mini-social
 npm install
 cp .env.example .env
