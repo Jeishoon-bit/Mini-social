@@ -107,7 +107,7 @@ mini-social/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/mini-social.git
+git clone https://github.com/Jeishoon-bit/Mini-social.git
 cd mini-social
 
 # 2. Instalar dependencias
